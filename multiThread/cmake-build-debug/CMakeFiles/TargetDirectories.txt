@@ -1,0 +1,3 @@
+F:/Project/c++/multiThread/cmake-build-debug/CMakeFiles/Singleton.dir
+F:/Project/c++/multiThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Project/c++/multiThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
