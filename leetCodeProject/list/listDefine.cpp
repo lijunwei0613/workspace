@@ -6,7 +6,8 @@
 #include <list>
 
 struct ListNode {
-    int val;  //╫з╣Цио╢Ф╢╒╣дт╙кь
-    ListNode *next;  //ж╦оРобр╩╦Ж╫з╣Ц╣дж╦уК
-    ListNode(int x) : val(x), next(nullptr) {}  //╫з╣Ц╣д╧╧тЛ╨╞йЩ
+    int val;  //О©╫з╣О©╫О©╫о╢Ф╢╒О©╫О©╫т╙О©╫О©╫
+    ListNode *next;  //ж╦О©╫О©╫О©╫О©╫р╩О©╫О©╫О©╫з╣О©╫О©╫ж╦О©╫О©╫
+    ListNode(int x) : val(x), next(nullptr) {}  //О©╫з╣О©╫д╧О©╫О©╫Л╨╞О©╫О©╫
+    cout << endl;
 };
