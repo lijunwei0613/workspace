@@ -1,3 +1,11 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/leetCodeProject/ArraySetMap"
+    "cmake.sourceDirectory": "${workspaceFolder}/leetCodeProject/ArraySetMap",
+    "files.associations": {
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "map": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
